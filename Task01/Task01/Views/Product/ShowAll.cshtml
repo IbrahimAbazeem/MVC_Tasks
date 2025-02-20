@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "ShowAll";
+}
+
+<h1>ShowAll</h1>
+<table class="table table-bordered table-hover align-content-center">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Description</td>
+                <td><img src="/images/@item.ImageUrl" style="width:100px; height:150px" /></td>
+                <td><a href="/Product/Details/@item.Id">See Details</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
