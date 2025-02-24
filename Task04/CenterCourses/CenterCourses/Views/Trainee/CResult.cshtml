@@ -1,0 +1,25 @@
+﻿@model List<CenterCourses.ViewModels.CourseResults>
+@{
+    ViewData["Title"] = "CResult";
+}
+
+
+<h1>Cource Degrees</h1>
+<table class="table table-bordered table-hover">
+    <tr>
+       
+        <th>Trainee Name</th>
+        <th>Degree</th>
+        
+    </tr>
+    @foreach (var item in Model)
+    {
+        string degreeColor = item.Degree < item.MinDegree ? "color : red" : "color : green";
+        <tr>
+            <td>@item.TraineeName</td>
+            <td style="@degreeColor">@item.Degree</td>
+         
+        </tr>
+    }
+</table>
+

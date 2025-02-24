@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Get Cookie";
+}
+
+<h2>Get Cookie</h2>
+<form method="post" asp-action="GetCookie">
+    <button type="submit" class="btn btn-success">Retrieve Cookies</button>
+</form>
+
+@if (ViewBag.CookieData != null)
+{
+    <p><strong>Cookie Data:</strong> @ViewBag.CookieData</p>
+}
