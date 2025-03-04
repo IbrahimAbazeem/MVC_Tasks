@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CenterCourses.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CenterCourses.v4ho4amvk8.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\bg-showcase-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-showcase-1.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\bg-showcase-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-showcase-2.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\bg-showcase-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-showcase-3.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\assets\\img\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\1867f110-88a5-4002-8ae9-2eced077c630.jpg",
+      "PackagePath": "staticwebassets\\images\\1867f110-88a5-4002-8ae9-2eced077c630.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\2034d8e3-9f65-4eb8-9f3d-12e046f4595f.jpg",
+      "PackagePath": "staticwebassets\\images\\2034d8e3-9f65-4eb8-9f3d-12e046f4595f.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\261c86eb-71c9-45d4-a8bd-6ef976f04a91.jpg",
+      "PackagePath": "staticwebassets\\images\\261c86eb-71c9-45d4-a8bd-6ef976f04a91.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\images\\3ec6efd9-5a45-493d-8282-3f65f78a5f27.jpg",
+      "PackagePath": "staticwebassets\\images\\3ec6efd9-5a45-493d-8282-3f65f78a5f27.jpg"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CenterCourses.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CenterCourses.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CenterCourses.props",
+      "PackagePath": "build\\CenterCourses.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CenterCourses.props",
+      "PackagePath": "buildMultiTargeting\\CenterCourses.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CenterCourses.props",
+      "PackagePath": "buildTransitive\\CenterCourses.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

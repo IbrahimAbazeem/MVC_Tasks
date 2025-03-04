@@ -1,0 +1,85 @@
+﻿@model CenterCourses.Models.Instructor
+
+@{
+    ViewData["Title"] = "New Instructor";
+}
+
+
+<h1>New Instructor</h1>
+
+<form action="/Instructor/SaveNew" method="post">
+    <div>
+        <label>Name</label>
+        <input type="text" name="Name" id="Name" value="@Model?.Name" class="form-control" />
+    </div>
+
+    <div>
+        <label>Salary</label>
+        <input type="number" name="Salary" id="Salary" value="@Model?.Salary" class="form-control" />
+    </div>
+
+    <div>
+        <label>Address</label>
+        <input type="text" name="Address" id="Address" value="@Model?.Address" class="form-control" />
+    </div>
+
+    <div>
+        <label>Department</label>
+        <select name="DeptId" id="DeptId" class="form-control">
+            <option value="">Select Department</option>
+            @foreach (var dept in ViewBag.Departments)
+            {
+                <option value="@dept.Id" selected="@(Model?.DeptId == dept.Id ? "selected" : null)">
+                    @dept.Name
+                </option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label>Course</label>
+        <select name="CrsId" id="CrsId" class="form-control">
+            <option value="">Select Course</option>
+            @foreach (var crs in ViewBag.Courses)
+            {
+                <option value="@crs.Id" selected="@(Model?.CrsId == crs.Id ? "selected" : null)">
+                    @crs.Name
+                </option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label>Image</label>
+        <select name="Image" id="Image" class="form-control" onchange="updatePreview()">
+            <option value="">Select Image</option>
+            @foreach (var img in ViewBag.Images)
+            {
+                <option value="@img">@img</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label>Preview</label><br />
+        <img id="previewImage" src="" alt="Image Preview" style="max-width: 200px; display: none;" />
+    </div>
+
+    <input type="submit" value="Create" class="btn btn-success" />
+</form>
+
+<a href="/Instructor/Index">Back To List</a>
+
+<script>
+    function updatePreview() {
+        var selectedImage = document.getElementById("Image").value;
+        var preview = document.getElementById("previewImage");
+
+        if (selectedImage) {
+            preview.src = "/images/" + selectedImage;
+            preview.style.display = "block";
+        } else {
+            preview.style.display = "none";
+        }
+    }
+</script>

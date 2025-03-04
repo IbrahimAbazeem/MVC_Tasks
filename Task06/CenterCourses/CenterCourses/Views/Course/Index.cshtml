@@ -1,0 +1,66 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_ADVLayout";
+}
+<!-- Search Form -->
+<form method="get" action="/Course/Index">
+    <input type="text" name="searchQuery" value="@ViewBag.SearchQuery" placeholder="Search by Name" class="form-control" style="width: 300px; display: inline-block;" />
+    <button type="submit" class="btn btn-success">Search</button>
+    <button class="btn btn-success"><a asp-action="New" style="color:azure">Add New</a></button>
+</form>
+<table class="table table-bordered table-hover align-content-center">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Degree</th>
+            <th>Min Degree</th>
+            <th>Hours</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Degree</td>
+                <td>@item.MinDegree</td>
+                <td>@item.Hours</td>
+                <td>
+                  
+                    <form asp-action="DeleteConfirmed" method="post" onsubmit="return confirmDelete()" style="display:inline;">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<!-- Pagination -->
+<div>
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a href="/Course/Index?page=@(ViewBag.CurrentPage - 1)" class="btn btn-primary">Previous</a>
+    }
+
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a href="/Course/Index?page=@i" class="btn @(i == ViewBag.CurrentPage ? "btn-secondary" : "btn-light")">@i</a>
+    }
+
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a href="/Course/Index?page=@(ViewBag.CurrentPage + 1)" class="btn btn-primary">Next</a>
+    }
+</div>
+<!-- JavaScript to Show Confirmation Before Deletion -->
+
+<script>
+    function confirmDelete() {
+        return confirm("Are you sure you want to delete this course?");
+    }
+</script>
+

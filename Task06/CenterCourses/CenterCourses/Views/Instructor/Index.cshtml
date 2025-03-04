@@ -1,0 +1,56 @@
+﻿@model List<Instructor>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Search Form -->
+<form method="get" action="/Instructor/Index">
+    <input type="text" name="searchQuery" value="@ViewBag.SearchQuery" placeholder="Search by Name" class="form-control" style="width: 300px; display: inline-block;" />
+    <button type="submit" class="btn btn-success">Search</button>
+    <button class="btn btn-success"><a asp-action="New" style="color:azure">Add New</a></button>
+
+</form>
+<h1> Index</h1>
+
+<table class="table table-bordered table-hover align-content-center">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+           
+            <th>Description</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+              
+                <td>@item.Address</td>
+                <td><img src="/images/@item.Image" style="width:100px; height:150px" /></td>
+                <td><a href="/Instructor/Details/@item.Id">See Details</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<!-- Pagination -->
+<div>
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a href="/Instructor/Index?page=@(ViewBag.CurrentPage - 1)" class="btn btn-primary">Previous</a>
+    }
+
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a href="/Instructor/Index?page=@i" class="btn @(i == ViewBag.CurrentPage ? "btn-secondary" : "btn-light")">@i</a>
+    }
+
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a href="/Instructor/Index?page=@(ViewBag.CurrentPage + 1)" class="btn btn-primary">Next</a>
+    }
+</div>

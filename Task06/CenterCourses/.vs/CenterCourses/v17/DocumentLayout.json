@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|d:\\#aec-iti-9 months\\08-web\\03-mvc\\day06\\centercourses\\centercourses\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|solutionrelative:centercourses\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|d:\\#aec-iti-9 months\\08-web\\03-mvc\\day06\\centercourses\\centercourses\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|solutionrelative:centercourses\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|d:\\#aec-iti-9 months\\08-web\\03-mvc\\day06\\centercourses\\centercourses\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|solutionrelative:centercourses\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|d:\\#aec-iti-9 months\\08-web\\03-mvc\\day06\\centercourses\\centercourses\\models\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A04E09-0539-49EB-A6CA-DD062AA6061F}|CenterCourses\\CenterCourses.csproj|solutionrelative:centercourses\\models\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "CenterCourses\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "CenterCourses\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T07:04:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniqueNameAttribute.cs",
+              "DocumentMoniker": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Models\\UniqueNameAttribute.cs",
+              "RelativeDocumentMoniker": "CenterCourses\\Models\\UniqueNameAttribute.cs",
+              "ToolTip": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Models\\UniqueNameAttribute.cs",
+              "RelativeToolTip": "CenterCourses\\Models\\UniqueNameAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:38:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CenterCourses\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CenterCourses\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:27:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CenterCourses\\Models\\Course.cs",
+              "ToolTip": "D:\\#AEC-ITI-9 months\\08-WEB\\03-MVC\\Day06\\CenterCourses\\CenterCourses\\Models\\Course.cs",
+              "RelativeToolTip": "CenterCourses\\Models\\Course.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:39:23.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
