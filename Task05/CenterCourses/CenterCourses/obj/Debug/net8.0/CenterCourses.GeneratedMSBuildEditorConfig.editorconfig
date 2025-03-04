@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CenterCourses
+build_property.RootNamespace = CenterCourses
+build_property.ProjectDir = D:\#AEC-ITI-9 months\08-WEB\03-MVC\Day05\Task05\CenterCourses\CenterCourses\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\#AEC-ITI-9 months\08-WEB\03-MVC\Day05\Task05\CenterCourses\CenterCourses
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Course/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Image/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Instructor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Instructor/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Shared/_ADVLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BRFZMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/StateManagement/GetCookie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XEdldENvb2tpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/StateManagement/GetSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XEdldFNlc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/StateManagement/SetCookie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFNldENvb2tpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/StateManagement/SetSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFNldFNlc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Trainee/CResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxDUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Trainee/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\#AEC-ITI-9 months/08-WEB/03-MVC/Day05/Task05/CenterCourses/CenterCourses/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gi0jkjg16r

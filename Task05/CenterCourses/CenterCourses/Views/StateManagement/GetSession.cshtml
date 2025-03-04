@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Get Session";
+}
+
+<h2>Get Session</h2>
+<form method="post" asp-action="GetSession">
+    <button type="submit" class="btn btn-success">Retrieve Session Data</button>
+</form>
+
+@if (ViewBag.SessionData != null)
+{
+    <p><strong>Session Data:</strong> @ViewBag.SessionData</p>
+}
